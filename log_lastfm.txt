@@ -1,0 +1,256 @@
+2023-01-12 14:56:21,325 - __main__ - INFO - Iter:      0,  Train Loss: 10.5934,  Time: 0:00:01 *
+2023-01-12 14:56:37,545 - __main__ - INFO - Iter:   1000,  Train Loss: 7.81074,  Time: 0:00:17 *
+2023-01-12 14:56:53,655 - __main__ - INFO - Iter:   2000,  Train Loss: 6.99115,  Time: 0:00:33 *
+2023-01-12 14:57:09,736 - __main__ - INFO - Iter:   3000,  Train Loss: 6.72707,  Time: 0:00:49 *
+2023-01-12 14:57:25,977 - __main__ - INFO - Iter:   4000,  Train Loss: 6.56341,  Time: 0:01:05 *
+2023-01-12 14:57:42,093 - __main__ - INFO - Iter:   5000,  Train Loss: 6.37153,  Time: 0:01:21 *
+2023-01-12 14:57:51,093 - __main__ - INFO - 
+epoch runtime : 90.35s
+
+* 2023-01-12_14.58.03.9822
+epoch[0] test :Top-20 acc:23.956, mrr:7.9247, ndcg:11.4381, time: 12.9s 
+Top-10 acc:17.103, mrr:7.4550, ndcg:9.7129 
+Top-5 acc:11.844, mrr:6.7623, ndcg:8.0214 
+2023-01-12 14:58:03,982 - __main__ - INFO - epoch[0] test :Top-20 acc:23.956, mrr:7.9247, ndcg:11.4381, time: 12.9s 
+Top-10 acc:17.103, mrr:7.4550, ndcg:9.7129 
+Top-5 acc:11.844, mrr:6.7623, ndcg:8.0214 
+
+2023-01-12 14:58:11,842 - __main__ - INFO - Iter:   6000,  Train Loss: 6.21433,  Time: 0:01:51 *
+2023-01-12 14:58:28,079 - __main__ - INFO - Iter:   7000,  Train Loss: 6.11913,  Time: 0:02:07 *
+2023-01-12 14:58:44,122 - __main__ - INFO - Iter:   8000,  Train Loss: 6.11006,  Time: 0:02:23 *
+2023-01-12 14:59:00,289 - __main__ - INFO - Iter:   9000,  Train Loss: 6.08841,  Time: 0:02:40 *
+2023-01-12 14:59:16,477 - __main__ - INFO - Iter:  10000,  Train Loss: 6.06983,  Time: 0:02:56 *
+2023-01-12 14:59:32,649 - __main__ - INFO - Iter:  11000,  Train Loss: 6.04722,  Time: 0:03:12 *
+2023-01-12 14:59:34,294 - __main__ - INFO - 
+epoch runtime : 90.31s
+
+* 2023-01-12_14.59.47.5567
+epoch[1] test :Top-20 acc:25.037, mrr:8.2268, ndcg:11.9100, time: 13.3s 
+Top-10 acc:17.844, mrr:7.7349, ndcg:10.1006 
+Top-5 acc:12.343, mrr:7.0101, ndcg:8.3311 
+2023-01-12 14:59:47,556 - __main__ - INFO - epoch[1] test :Top-20 acc:25.037, mrr:8.2268, ndcg:11.9100, time: 13.3s 
+Top-10 acc:17.844, mrr:7.7349, ndcg:10.1006 
+Top-5 acc:12.343, mrr:7.0101, ndcg:8.3311 
+
+2023-01-12 15:00:02,686 - __main__ - INFO - Iter:  12000,  Train Loss: 5.90444,  Time: 0:03:42 *
+2023-01-12 15:00:18,745 - __main__ - INFO - Iter:  13000,  Train Loss: 5.92289,  Time: 0:03:58 *
+2023-01-12 15:00:34,838 - __main__ - INFO - Iter:  14000,  Train Loss: 5.93863,  Time: 0:04:14 *
+2023-01-12 15:00:51,009 - __main__ - INFO - Iter:  15000,  Train Loss: 5.94455,  Time: 0:04:30 *
+2023-01-12 15:01:07,071 - __main__ - INFO - Iter:  16000,  Train Loss: 5.94762,  Time: 0:04:46 *
+2023-01-12 15:01:17,430 - __main__ - INFO - 
+epoch runtime : 89.87s
+
+* 2023-01-12_15.01.30.9596
+epoch[2] test :Top-20 acc:25.301, mrr:8.3457, ndcg:12.0558, time: 13.5s 
+Top-10 acc:17.984, mrr:7.8449, ndcg:10.2145 
+Top-5 acc:12.400, mrr:7.1092, ndcg:8.4184 
+2023-01-12 15:01:30,959 - __main__ - INFO - epoch[2] test :Top-20 acc:25.301, mrr:8.3457, ndcg:12.0558, time: 13.5s 
+Top-10 acc:17.984, mrr:7.8449, ndcg:10.2145 
+Top-5 acc:12.400, mrr:7.1092, ndcg:8.4184 
+
+2023-01-12 15:01:37,399 - __main__ - INFO - Iter:  17000,  Train Loss: 5.85928,  Time: 0:05:17 *
+2023-01-12 15:01:53,518 - __main__ - INFO - Iter:  18000,  Train Loss: 5.69175,  Time: 0:05:33 *
+2023-01-12 15:02:09,594 - __main__ - INFO - Iter:  19000,  Train Loss: 5.68184,  Time: 0:05:49 *
+2023-01-12 15:02:25,753 - __main__ - INFO - Iter:  20000,  Train Loss: 5.66969,  Time: 0:06:05 *
+2023-01-12 15:02:42,066 - __main__ - INFO - Iter:  21000,  Train Loss: 5.67659,  Time: 0:06:21 *
+2023-01-12 15:02:58,101 - __main__ - INFO - Iter:  22000,  Train Loss: 5.66984,  Time: 0:06:37 *
+2023-01-12 15:03:01,205 - __main__ - INFO - 
+epoch runtime : 90.24s
+
+* 2023-01-12_15.03.14.6089
+epoch[3] test :Top-20 acc:25.998, mrr:8.5226, ndcg:12.3513, time: 13.4s 
+Top-10 acc:18.536, mrr:8.0110, ndcg:10.4725 
+Top-5 acc:12.772, mrr:7.2504, ndcg:8.6173 
+2023-01-12 15:03:14,609 - __main__ - INFO - epoch[3] test :Top-20 acc:25.998, mrr:8.5226, ndcg:12.3513, time: 13.4s 
+Top-10 acc:18.536, mrr:8.0110, ndcg:10.4725 
+Top-5 acc:12.772, mrr:7.2504, ndcg:8.6173 
+
+2023-01-12 15:03:28,377 - __main__ - INFO - Iter:  23000,  Train Loss: 5.63008,  Time: 0:07:08 *
+2023-01-12 15:03:44,383 - __main__ - INFO - Iter:  24000,  Train Loss: 5.62616,  Time: 0:07:24 *
+2023-01-12 15:04:00,494 - __main__ - INFO - Iter:  25000,  Train Loss: 5.63359,  Time: 0:07:40 *
+2023-01-12 15:04:16,703 - __main__ - INFO - Iter:  26000,  Train Loss: 5.63671,  Time: 0:07:56 *
+2023-01-12 15:04:32,760 - __main__ - INFO - Iter:  27000,  Train Loss: 5.64361,  Time: 0:08:12 *
+2023-01-12 15:04:44,456 - __main__ - INFO - 
+epoch runtime : 89.85s
+
+2023-01-12 15:04:57,403 - __main__ - INFO - epoch[4] test :Top-20 acc:25.910, mrr:8.4760, ndcg:12.2957, time: 12.9s 
+Top-10 acc:18.454, mrr:7.9652, ndcg:10.4188 
+Top-5 acc:12.730, mrr:7.2096, ndcg:8.5761 
+
+2023-01-12 15:05:02,508 - __main__ - INFO - Iter:  28000,  Train Loss: 5.62857,  Time: 0:08:42 *
+2023-01-12 15:05:18,597 - __main__ - INFO - Iter:  29000,  Train Loss: 5.59833,  Time: 0:08:58 *
+2023-01-12 15:05:34,738 - __main__ - INFO - Iter:  30000,  Train Loss: 5.61092,  Time: 0:09:14 *
+2023-01-12 15:05:51,061 - __main__ - INFO - Iter:  31000,  Train Loss: 5.6143,  Time: 0:09:30 *
+2023-01-12 15:06:07,229 - __main__ - INFO - Iter:  32000,  Train Loss: 5.61662,  Time: 0:09:46 *
+2023-01-12 15:06:23,264 - __main__ - INFO - Iter:  33000,  Train Loss: 5.62263,  Time: 0:10:03 *
+2023-01-12 15:06:27,670 - __main__ - INFO - 
+epoch runtime : 90.27s
+
+2023-01-12 15:06:41,231 - __main__ - INFO - epoch[5] test :Top-20 acc:25.880, mrr:8.5039, ndcg:12.3102, time: 13.6s 
+Top-10 acc:18.440, mrr:7.9943, ndcg:10.4377 
+Top-5 acc:12.746, mrr:7.2426, ndcg:8.6047 
+
+2023-01-12 15:06:53,658 - __main__ - INFO - Iter:  34000,  Train Loss: 5.58191,  Time: 0:10:33 *
+2023-01-12 15:07:09,666 - __main__ - INFO - Iter:  35000,  Train Loss: 5.56916,  Time: 0:10:49 *
+2023-01-12 15:07:25,749 - __main__ - INFO - Iter:  36000,  Train Loss: 5.56941,  Time: 0:11:05 *
+2023-01-12 15:07:42,099 - __main__ - INFO - Iter:  37000,  Train Loss: 5.56993,  Time: 0:11:21 *
+2023-01-12 15:07:58,199 - __main__ - INFO - Iter:  38000,  Train Loss: 5.57893,  Time: 0:11:37 *
+2023-01-12 15:08:11,365 - __main__ - INFO - 
+epoch runtime : 90.13s
+
+2023-01-12 15:08:24,987 - __main__ - INFO - epoch[6] test :Top-20 acc:25.869, mrr:8.4957, ndcg:12.3020, time: 13.6s 
+Top-10 acc:18.428, mrr:7.9857, ndcg:10.4286 
+Top-5 acc:12.753, mrr:7.2362, ndcg:8.6014 
+
+2023-01-12 15:08:28,780 - __main__ - INFO - Iter:  39000,  Train Loss: 5.56319,  Time: 0:12:08 *
+2023-01-12 15:08:44,905 - __main__ - INFO - Iter:  40000,  Train Loss: 5.5658,  Time: 0:12:24 *
+2023-01-12 15:09:01,027 - __main__ - INFO - Iter:  41000,  Train Loss: 5.56221,  Time: 0:12:40 *
+2023-01-12 15:09:17,543 - __main__ - INFO - Iter:  42000,  Train Loss:  5.57,  Time: 0:12:57 *
+2023-01-12 15:09:33,736 - __main__ - INFO - Iter:  43000,  Train Loss: 5.56789,  Time: 0:13:13 *
+2023-01-12 15:09:49,831 - __main__ - INFO - Iter:  44000,  Train Loss: 5.56648,  Time: 0:13:29 *
+2023-01-12 15:09:55,633 - __main__ - INFO - 
+epoch runtime : 90.65s
+
+2023-01-12 15:10:09,106 - __main__ - INFO - epoch[7] test :Top-20 acc:25.878, mrr:8.4909, ndcg:12.2999, time: 13.5s 
+Top-10 acc:18.427, mrr:7.9805, ndcg:10.4244 
+Top-5 acc:12.743, mrr:7.2297, ndcg:8.5942 
+
+2023-01-12 15:10:20,135 - __main__ - INFO - Iter:  45000,  Train Loss: 5.56319,  Time: 0:13:59 *
+2023-01-12 15:10:36,310 - __main__ - INFO - Iter:  46000,  Train Loss: 5.56045,  Time: 0:14:16 *
+2023-01-12 15:10:52,508 - __main__ - INFO - Iter:  47000,  Train Loss: 5.56466,  Time: 0:14:32 *
+2023-01-12 15:11:08,775 - __main__ - INFO - Iter:  48000,  Train Loss: 5.56435,  Time: 0:14:48 *
+2023-01-12 15:11:24,812 - __main__ - INFO - Iter:  49000,  Train Loss: 5.56476,  Time: 0:15:04 *
+2023-01-12 15:11:39,514 - __main__ - INFO - 
+epoch runtime : 90.41s
+
+2023-01-12 15:11:52,997 - __main__ - INFO - epoch[8] test :Top-20 acc:25.874, mrr:8.4886, ndcg:12.2970, time: 13.5s 
+Top-10 acc:18.428, mrr:7.9790, ndcg:10.4234 
+Top-5 acc:12.740, mrr:7.2281, ndcg:8.5922 
+
+2023-01-12 15:11:55,262 - __main__ - INFO - Iter:  50000,  Train Loss: 5.565,  Time: 0:15:35 *
+2023-01-12 15:12:11,426 - __main__ - INFO - Iter:  51000,  Train Loss: 5.55916,  Time: 0:15:51 *
+2023-01-12 15:12:27,566 - __main__ - INFO - Iter:  52000,  Train Loss: 5.56334,  Time: 0:16:07 *
+2023-01-12 15:12:43,819 - __main__ - INFO - Iter:  53000,  Train Loss: 5.55063,  Time: 0:16:23 *
+2023-01-12 15:12:59,912 - __main__ - INFO - Iter:  54000,  Train Loss: 5.55645,  Time: 0:16:39 *
+2023-01-12 15:13:15,993 - __main__ - INFO - Iter:  55000,  Train Loss: 5.55939,  Time: 0:16:55 *
+2023-01-12 15:13:23,141 - __main__ - INFO - 
+epoch runtime : 90.14s
+
+2023-01-12 15:13:36,894 - __main__ - INFO - epoch[9] test :Top-20 acc:25.877, mrr:8.4929, ndcg:12.3007, time: 13.8s 
+Top-10 acc:18.424, mrr:7.9827, ndcg:10.4251 
+Top-5 acc:12.744, mrr:7.2330, ndcg:8.5967 
+
+2023-01-12 15:13:46,840 - __main__ - INFO - Iter:  56000,  Train Loss: 5.56062,  Time: 0:17:26 *
+2023-01-12 15:14:02,989 - __main__ - INFO - Iter:  57000,  Train Loss: 5.55951,  Time: 0:17:42 *
+2023-01-12 15:14:19,342 - __main__ - INFO - Iter:  58000,  Train Loss: 5.55869,  Time: 0:17:59 *
+2023-01-12 15:14:35,524 - __main__ - INFO - Iter:  59000,  Train Loss: 5.55758,  Time: 0:18:15 *
+2023-01-12 15:14:51,628 - __main__ - INFO - Iter:  60000,  Train Loss: 5.55616,  Time: 0:18:31 *
+2023-01-12 15:15:07,721 - __main__ - INFO - 
+epoch runtime : 90.83s
+
+2023-01-12 15:15:21,121 - __main__ - INFO - epoch[10] test :Top-20 acc:25.874, mrr:8.4886, ndcg:12.2968, time: 13.4s 
+Top-10 acc:18.421, mrr:7.9784, ndcg:10.4214 
+Top-5 acc:12.739, mrr:7.2282, ndcg:8.5921 
+
+2023-01-12 15:15:22,002 - __main__ - INFO - Iter:  61000,  Train Loss: 5.56086,  Time: 0:19:01 *
+2023-01-12 15:15:38,129 - __main__ - INFO - Iter:  62000,  Train Loss: 5.55714,  Time: 0:19:17 *
+2023-01-12 15:15:54,173 - __main__ - INFO - Iter:  63000,  Train Loss: 5.55537,  Time: 0:19:33 *
+2023-01-12 15:16:10,433 - __main__ - INFO - Iter:  64000,  Train Loss: 5.55796,  Time: 0:19:50 *
+2023-01-12 15:16:26,505 - __main__ - INFO - Iter:  65000,  Train Loss: 5.55499,  Time: 0:20:06 *
+2023-01-12 15:16:42,561 - __main__ - INFO - Iter:  66000,  Train Loss: 5.56229,  Time: 0:20:22 *
+2023-01-12 15:16:51,307 - __main__ - INFO - 
+epoch runtime : 90.19s
+
+2023-01-12 15:17:04,216 - __main__ - INFO - epoch[11] test :Top-20 acc:25.876, mrr:8.4885, ndcg:12.2970, time: 12.9s 
+Top-10 acc:18.420, mrr:7.9782, ndcg:10.4209 
+Top-5 acc:12.740, mrr:7.2281, ndcg:8.5920 
+
+2023-01-12 15:17:12,478 - __main__ - INFO - Iter:  67000,  Train Loss: 5.55939,  Time: 0:20:52 *
+2023-01-12 15:17:28,543 - __main__ - INFO - Iter:  68000,  Train Loss: 5.56104,  Time: 0:21:08 *
+2023-01-12 15:17:44,988 - __main__ - INFO - Iter:  69000,  Train Loss: 5.55418,  Time: 0:21:24 *
+2023-01-12 15:18:00,998 - __main__ - INFO - Iter:  70000,  Train Loss: 5.55657,  Time: 0:21:40 *
+2023-01-12 15:18:17,030 - __main__ - INFO - Iter:  71000,  Train Loss: 5.55596,  Time: 0:21:56 *
+2023-01-12 15:18:33,526 - __main__ - INFO - Iter:  72000,  Train Loss: 5.56069,  Time: 0:22:13 *
+2023-01-12 15:18:34,745 - __main__ - INFO - 
+epoch runtime : 90.53s
+
+2023-01-12 15:18:48,056 - __main__ - INFO - epoch[12] test :Top-20 acc:25.874, mrr:8.4885, ndcg:12.2966, time: 13.3s 
+Top-10 acc:18.420, mrr:7.9782, ndcg:10.4208 
+Top-5 acc:12.738, mrr:7.2279, ndcg:8.5915 
+
+2023-01-12 15:19:03,667 - __main__ - INFO - Iter:  73000,  Train Loss: 5.5537,  Time: 0:22:43 *
+2023-01-12 15:19:19,812 - __main__ - INFO - Iter:  74000,  Train Loss: 5.55403,  Time: 0:22:59 *
+2023-01-12 15:19:36,074 - __main__ - INFO - Iter:  75000,  Train Loss: 5.55925,  Time: 0:23:15 *
+2023-01-12 15:19:52,188 - __main__ - INFO - Iter:  76000,  Train Loss: 5.55749,  Time: 0:23:31 *
+2023-01-12 15:20:08,255 - __main__ - INFO - Iter:  77000,  Train Loss: 5.55927,  Time: 0:23:48 *
+2023-01-12 15:20:18,417 - __main__ - INFO - 
+epoch runtime : 90.36s
+
+2023-01-12 15:20:31,148 - __main__ - INFO - epoch[13] test :Top-20 acc:25.873, mrr:8.4885, ndcg:12.2965, time: 12.7s 
+Top-10 acc:18.420, mrr:7.9783, ndcg:10.4209 
+Top-5 acc:12.739, mrr:7.2282, ndcg:8.5919 
+
+2023-01-12 15:20:38,080 - __main__ - INFO - Iter:  78000,  Train Loss: 5.5612,  Time: 0:24:17 *
+2023-01-12 15:20:54,234 - __main__ - INFO - Iter:  79000,  Train Loss: 5.55744,  Time: 0:24:33 *
+2023-01-12 15:21:10,438 - __main__ - INFO - Iter:  80000,  Train Loss: 5.55599,  Time: 0:24:50 *
+2023-01-12 15:21:26,493 - __main__ - INFO - Iter:  81000,  Train Loss: 5.55682,  Time: 0:25:06 *
+2023-01-12 15:21:42,562 - __main__ - INFO - Iter:  82000,  Train Loss: 5.55808,  Time: 0:25:22 *
+2023-01-12 15:21:58,893 - __main__ - INFO - Iter:  83000,  Train Loss: 5.55624,  Time: 0:25:38 *
+2023-01-12 15:22:01,492 - __main__ - INFO - 
+epoch runtime : 90.34s
+
+2023-01-12 15:22:14,684 - __main__ - INFO - epoch[14] test :Top-20 acc:25.872, mrr:8.4872, ndcg:12.2953, time: 13.2s 
+Top-10 acc:18.421, mrr:7.9772, ndcg:10.4203 
+Top-5 acc:12.737, mrr:7.2266, ndcg:8.5902 
+
+2023-01-12 15:22:28,907 - __main__ - INFO - Iter:  84000,  Train Loss:  5.55,  Time: 0:26:08 *
+2023-01-12 15:22:45,026 - __main__ - INFO - Iter:  85000,  Train Loss: 5.56043,  Time: 0:26:24 *
+2023-01-12 15:23:01,166 - __main__ - INFO - Iter:  86000,  Train Loss: 5.56237,  Time: 0:26:40 *
+2023-01-12 15:23:17,294 - __main__ - INFO - Iter:  87000,  Train Loss: 5.55639,  Time: 0:26:57 *
+2023-01-12 15:23:33,457 - __main__ - INFO - Iter:  88000,  Train Loss: 5.55733,  Time: 0:27:13 *
+2023-01-12 15:23:44,992 - __main__ - INFO - 
+epoch runtime : 90.31s
+
+2023-01-12 15:23:58,126 - __main__ - INFO - epoch[15] test :Top-20 acc:25.872, mrr:8.4873, ndcg:12.2953, time: 13.1s 
+Top-10 acc:18.421, mrr:7.9773, ndcg:10.4204 
+Top-5 acc:12.737, mrr:7.2267, ndcg:8.5903 
+
+2023-01-12 15:24:03,906 - __main__ - INFO - Iter:  89000,  Train Loss: 5.553,  Time: 0:27:43 *
+2023-01-12 15:24:19,994 - __main__ - INFO - Iter:  90000,  Train Loss: 5.55784,  Time: 0:27:59 *
+2023-01-12 15:24:36,299 - __main__ - INFO - Iter:  91000,  Train Loss: 5.55466,  Time: 0:28:16 *
+2023-01-12 15:24:52,507 - __main__ - INFO - Iter:  92000,  Train Loss: 5.55735,  Time: 0:28:32 *
+2023-01-12 15:25:08,783 - __main__ - INFO - Iter:  93000,  Train Loss: 5.55692,  Time: 0:28:48 *
+2023-01-12 15:25:25,069 - __main__ - INFO - Iter:  94000,  Train Loss: 5.56185,  Time: 0:29:04 *
+2023-01-12 15:25:29,057 - __main__ - INFO - 
+epoch runtime : 90.93s
+
+2023-01-12 15:25:42,239 - __main__ - INFO - epoch[16] test :Top-20 acc:25.872, mrr:8.4874, ndcg:12.2954, time: 13.2s 
+Top-10 acc:18.420, mrr:7.9773, ndcg:10.4203 
+Top-5 acc:12.736, mrr:7.2267, ndcg:8.5902 
+
+2023-01-12 15:25:55,199 - __main__ - INFO - Iter:  95000,  Train Loss: 5.55898,  Time: 0:29:34 *
+2023-01-12 15:26:11,511 - __main__ - INFO - Iter:  96000,  Train Loss: 5.55759,  Time: 0:29:51 *
+2023-01-12 15:26:27,649 - __main__ - INFO - Iter:  97000,  Train Loss: 5.55467,  Time: 0:30:07 *
+2023-01-12 15:26:43,771 - __main__ - INFO - Iter:  98000,  Train Loss: 5.56151,  Time: 0:30:23 *
+2023-01-12 15:26:59,983 - __main__ - INFO - Iter:  99000,  Train Loss: 5.55681,  Time: 0:30:39 *
+2023-01-12 15:27:12,750 - __main__ - INFO - 
+epoch runtime : 90.51s
+
+2023-01-12 15:27:25,965 - __main__ - INFO - epoch[17] test :Top-20 acc:25.872, mrr:8.4876, ndcg:12.2956, time: 13.2s 
+Top-10 acc:18.420, mrr:7.9775, ndcg:10.4204 
+Top-5 acc:12.736, mrr:7.2269, ndcg:8.5904 
+
+2023-01-12 15:27:30,062 - __main__ - INFO - Iter: 100000,  Train Loss: 5.55483,  Time: 0:31:09 *
+2023-01-12 15:27:46,181 - __main__ - INFO - Iter: 101000,  Train Loss: 5.56363,  Time: 0:31:25 *
+2023-01-12 15:28:02,375 - __main__ - INFO - Iter: 102000,  Train Loss: 5.55693,  Time: 0:31:42 *
+2023-01-12 15:28:18,460 - __main__ - INFO - Iter: 103000,  Train Loss: 5.55467,  Time: 0:31:58 *
+2023-01-12 15:28:34,609 - __main__ - INFO - Iter: 104000,  Train Loss: 5.55736,  Time: 0:32:14 *
+2023-01-12 15:28:50,981 - __main__ - INFO - Iter: 105000,  Train Loss: 5.55137,  Time: 0:32:30 *
+2023-01-12 15:28:56,379 - __main__ - INFO - 
+epoch runtime : 90.41s
+
+2023-01-12 15:29:09,514 - __main__ - INFO - epoch[18] test :Top-20 acc:25.872, mrr:8.4874, ndcg:12.2955, time: 13.1s 
+Top-10 acc:18.420, mrr:7.9773, ndcg:10.4201 
+Top-5 acc:12.736, mrr:7.2266, ndcg:8.5901 
+
+2023-01-12 15:29:09,515 - __main__ - INFO - Early stop: No more improvement
